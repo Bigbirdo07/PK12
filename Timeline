@@ -1,0 +1,4 @@
+Milestones:
+Week 1 after turned in: Finalize project scope, gather sample curricula, build initial web scraping + storage pipeline.
+Week 2: Develop scheduling logic and test basic prototype with sample data.: Integrate GPT interface and build RAG pipeline for curriculum query.
+Week 3: Conduct internal testing across different school types and grade levels.Final presentation + live demo + submission of all deliverables.
